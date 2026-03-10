@@ -116,7 +116,7 @@ location-voiture/
 ### Étapes
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/votre-username/location-voiture.git
+git clone https://github.com/RadoKelly/location-voiture.git
 
 # 2. Se placer dans le dossier
 cd location-voiture
